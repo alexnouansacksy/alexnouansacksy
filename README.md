@@ -9,7 +9,7 @@ I’m a student at the University of Wisconsin–Madison studying **Information 
 - 🐳 Containerized services with **Docker & Docker Compose**
 - 🌐 Self-hosted services accessed securely via **Tailscale**
 - 📊 Exploring **Prometheus, Grafana, and Netdata** for system and network monitoring
-- 🤖 **Tacobeaver Bot** — a private Discord bot project
+- 🤖 **Taco beaver Bot** — a private Discord bot project
 
 ---
 
