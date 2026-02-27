@@ -1,6 +1,6 @@
 ## Hi, I’m Alex 👋
 
-I’m a student at the University of Wisconsin–Madison studying **Information Science and Data Science**, with a focus on **IT, systems administration, and infrastructure**. At UW-Madison, I'm currently working as a Student Systems Administrator at the Division of Information Technology. I enjoy building and maintaining systems that actually run things — servers, networks, monitoring, and automation.
+I’m a student at the University of Wisconsin–Madison studying **Information Science and Data Science**, with a focus on **IT, systems administration, and infrastructure**. At UW-Madison, I'm currently working as a Student Systems Administrator at the Division of Information Technology. I enjoy building and maintaining systems that actually run things, such as servers, networks, monitoring, and automation.
 
 ---
 
